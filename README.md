@@ -42,6 +42,8 @@ ChatBot: I'm doing great, thank you for asking!
 
 You: bye
 ChatBot: Goodbye! Have a great day!
+
+
 📜 License
 This project is open-source and free to use for learning purposes.
 
